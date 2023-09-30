@@ -1,0 +1,122 @@
+.heading {
+    background-color: #f7f7f7;
+    display: flex;
+    justify-content: space-between;
+    /* padding-top: 30px; */
+}
+
+.tropiko {
+    padding-left: 200px;
+}
+
+.heading2 {
+    display: flex;
+}
+
+.heading2 h4 {
+    font-weight: 100;
+}
+
+.h {
+    padding-right: 60px;
+}
+
+.heading img {
+    height: 20px;
+    width: auto;
+    padding-top: 20px;
+}
+
+.quote {
+    margin-right: 200px;
+    background-color: #fc5d35;
+    border: none;
+    width: 140px;
+    height: 30px;
+    margin-top: 19px;
+    color: #f7f7f7;
+}
+
+.mid {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.middle {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.buynow {
+    padding-top: 30px;
+}
+
+.buynow button {
+    padding: 7px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color: black;
+    color: white;
+}
+
+.orange {
+    height: 130px;
+}
+
+.grapes {
+    padding-top: 100px;
+}
+
+.grape {
+    height: 250px;
+}
+
+.guavas {
+    padding-top: 80px;
+}
+
+.guava {
+    height: 200px;
+}
+
+.downpart {
+    display: flex;
+    border: 200px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.socialmedia {
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.services {
+    margin: 100px;
+}
+
+.services2 {
+    margin: 100px;
+}
+
+.Subscribenow {
+    padding-top: 20px;
+    height: 20px;
+    width: auto;
+}
+
+.Subscribenow input {
+    height: 25px;
+}
+
+.sub {
+    margin: 60px 20px 20px 0px;
+    height: 40px;
+    width: 130px;
+    background-color: #fc5d35;
+    color: white;
+    border: none;
+}
